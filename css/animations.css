@@ -1,0 +1,19 @@
+@keyframes  left {
+    0%{
+        margin-left: 0;
+        /* left: -100%; */
+    }
+    100%{
+        margin-left: 30px;
+        left: 0;
+}}
+@keyframes right{
+    0%{
+        right: 0px;
+        /* margin-right: 0%; */
+    }
+    100%{
+        right: 20px;
+        /* margin-right:10% ; */
+    }
+}
